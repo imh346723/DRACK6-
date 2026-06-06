@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+main img{
+    width: 400px;
+    height: 300px;
+}
+
+h1{
+    text-align: center;
+}
+
+header img {
+    width: 100px;
+    margin: 5px;
+}
+
+header p{
+    text-align: center;
+}
+
+header{
+    background-color: green;
+}
+
+main img{
+    margin-left: 20px;
+}
